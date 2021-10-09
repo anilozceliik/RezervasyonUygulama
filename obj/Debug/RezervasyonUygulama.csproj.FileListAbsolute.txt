@@ -1,0 +1,13 @@
+C:\Users\Software\source\repos\RezervasyonUygulama\RezervasyonUygulama\bin\Debug\RezervasyonUygulama.exe.config
+C:\Users\Software\source\repos\RezervasyonUygulama\RezervasyonUygulama\bin\Debug\RezervasyonUygulama.exe
+C:\Users\Software\source\repos\RezervasyonUygulama\RezervasyonUygulama\bin\Debug\RezervasyonUygulama.pdb
+C:\Users\Software\source\repos\RezervasyonUygulama\RezervasyonUygulama\obj\Debug\RezervasyonUygulama.Form1.resources
+C:\Users\Software\source\repos\RezervasyonUygulama\RezervasyonUygulama\obj\Debug\RezervasyonUygulama.Form2.resources
+C:\Users\Software\source\repos\RezervasyonUygulama\RezervasyonUygulama\obj\Debug\RezervasyonUygulama.Properties.Resources.resources
+C:\Users\Software\source\repos\RezervasyonUygulama\RezervasyonUygulama\obj\Debug\RezervasyonUygulama.csproj.GenerateResource.cache
+C:\Users\Software\source\repos\RezervasyonUygulama\RezervasyonUygulama\obj\Debug\RezervasyonUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Software\source\repos\RezervasyonUygulama\RezervasyonUygulama\obj\Debug\RezervasyonUygulama.exe
+C:\Users\Software\source\repos\RezervasyonUygulama\RezervasyonUygulama\obj\Debug\RezervasyonUygulama.pdb
+C:\Users\Software\source\repos\RezervasyonUygulama\RezervasyonUygulama\obj\Debug\RezervasyonUygulama.csprojAssemblyReference.cache
+C:\Users\Software\source\repos\RezervasyonUygulama\RezervasyonUygulama\bin\Debug\Bilgi.accdb
+C:\Users\Software\source\repos\RezervasyonUygulama\RezervasyonUygulama\bin\Debug\koltuklar.accdb
